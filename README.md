@@ -126,7 +126,7 @@ protected void Update()
 ---
 ![](https://github.com/Poyamohamadi/Arrows_Away/blob/main/image/10.PNG)
 ```csharp
-// Arrow
+// Rings
 public GameObject effectBurst;
     protected void OnCollisionEnter(Collision collisionInfo)
         {
